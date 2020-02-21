@@ -1,4 +1,4 @@
-# Commercio.network testnet 6001 Update
+# Commercio.network testnet 6002 Update
 
 **ATTENTION**: This guide is only for updating from commercio-testnet6001 to commercio-testnet6002 and for full nodes or validators that have followed the instructions reported here [Installing a full node](https://docs.commercio.network/nodes/full-node-installation.html#_1-installing-the-software-requirements)
 
